@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 1023119c-b0e9-496e-8cef-c20e1d2804c4
+  title: Introductory Econometrics with Python
+  description: A Python-based solution manual for Introductory Econometrics A Modern Approach by Jeffrey Wooldridge. This Jupyter Book includes practical, reproducible code examples, designed to help students and instructors learn econometrics through Python.
+  # keywords: []
+  authors: [Ahmed H. Darwish]
+  github: https://github.com/42ahmed/woolpy
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
