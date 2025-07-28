@@ -11,6 +11,5 @@ project:
 site:
   template: book-theme
   options:
-    logo: assets/logo.png
+    logo_text: "Introductory Econometrics with Python"
   #   favicon: favicon.ico
-    
