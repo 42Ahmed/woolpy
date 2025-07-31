@@ -25,5 +25,5 @@ Applied Statistician | Teaching Assistant | Open-source Contributor
 
 ## 📚 Credits
 
-This project is inspired by the excellent textbook by [Jeffrey M. Wooldridge](https://www.amazon.com/dp/1337558869) and built using [MyST Markdown](https://mystmd.org) and [Jupyter Book](https://jupyterbook.org).
+This project is inspired by the excellent textbook by [Jeffrey M. Wooldridge](https://www.amazon.com/dp/1337558869)
 
